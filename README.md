@@ -1,4 +1,4 @@
-# poojapal084--glitch
+
 # 👋 Hi, I'm Puja Paul!
 
 ### 🚀 Aspiring Data Analyst | Machine Learning Enthusiast | Python Developer
